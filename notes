@@ -1,0 +1,24 @@
+Resources used:
+https://www.youtube.com/watch?v=jakXbai-Wic
+https://www.youtube.com/watch?v=aK_g6ZKdLsQ
+
+A dictionary is a type of data structure and also a collection of unique keys and their values.
+A nested dictionary is simply a dictionary within a dictionary.
+A simple dictionary is illustrated below:
+
+Below is a single dictionary
+{
+    key 1: value 1,
+    key 2: value 2
+}
+
+
+Below is a nested dictionary. Nesting of a list within a dictionary is also possible.
+{
+    key 1: {dictionary1},
+    key 2: {dictionary2},
+    key 3: [list]
+}
+
+
+--- Flattening nested dictionaries
